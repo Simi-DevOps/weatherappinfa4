@@ -1,1 +1,1 @@
-# weatherappinfa4
+# This is a simple weather app
